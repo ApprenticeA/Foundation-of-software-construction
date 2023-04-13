@@ -1,0 +1,15 @@
+D:\C#项目\homework5\order\order\bin\Debug\net6.0\order.exe
+D:\C#项目\homework5\order\order\bin\Debug\net6.0\order.deps.json
+D:\C#项目\homework5\order\order\bin\Debug\net6.0\order.runtimeconfig.json
+D:\C#项目\homework5\order\order\bin\Debug\net6.0\order.dll
+D:\C#项目\homework5\order\order\bin\Debug\net6.0\order.pdb
+D:\C#项目\homework5\order\order\obj\Debug\net6.0\order.csproj.AssemblyReference.cache
+D:\C#项目\homework5\order\order\obj\Debug\net6.0\order.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#项目\homework5\order\order\obj\Debug\net6.0\order.AssemblyInfoInputs.cache
+D:\C#项目\homework5\order\order\obj\Debug\net6.0\order.AssemblyInfo.cs
+D:\C#项目\homework5\order\order\obj\Debug\net6.0\order.csproj.CoreCompileInputs.cache
+D:\C#项目\homework5\order\order\obj\Debug\net6.0\order.dll
+D:\C#项目\homework5\order\order\obj\Debug\net6.0\refint\order.dll
+D:\C#项目\homework5\order\order\obj\Debug\net6.0\order.pdb
+D:\C#项目\homework5\order\order\obj\Debug\net6.0\order.genruntimeconfig.cache
+D:\C#项目\homework5\order\order\obj\Debug\net6.0\ref\order.dll
